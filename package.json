@@ -1,16 +1,16 @@
 {
   "name": "notion-next",
   "version": "4.1.4",
-  "homepage": "https://github.com/BTI-US/Lotso-Webpage.git",
+  "homepage": "https://github.com/Phillweston/ChubGame-Whitepaper.git",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/BTI-US/Lotso-Webpage.git"
+    "url": "https://github.com/Phillweston/ChubGame-Whitepaper.git"
   },
   "author": {
-    "name": "Lotso",
-    "email": "contact@lotso.org",
-    "url": "https://lotso.org"
+    "name": "ChubGame",
+    "email": "contact@chubgame.com",
+    "url": "https://chubgame.com"
   },
   "scripts": {
     "dev": "next dev",
@@ -71,7 +71,7 @@
     "axios": ">=0.21.1"
   },
   "bugs": {
-    "url": "https://github.com/BTI-US/Lotso-Webpage/issues",
-    "email": "contact@lotso.org"
+    "url": "https://github.com/Phillweston/ChubGame-Whitepaper/issues",
+    "email": "contact@chubgame.com"
   }
 }

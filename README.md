@@ -1,18 +1,20 @@
 <p align="center">
-  <img src="docs/Spatula.png" alt="Spatula Logo" width="150"/>
+  <a href="https://chubgame.com">
+    <img src="docs/chubgame.png" alt="ChubGame Logo" width="400"/>
+  </a>
 </p>
 
-# Spatula-Webpage
+# ChubGame-Whitepaper
 
 <p>
-  <a aria-label="GitHub commit activity" href="https://github.com/BTI-US/Spatula-Webpage/commits/main" title="GitHub commit activity">
-    <img src="https://img.shields.io/github/commit-activity/m/Phillweston/Spatula-Webpage?style=for-the-badge"/>
+  <a aria-label="GitHub commit activity" href="https://github.com/Phillweston/ChubGame-Whitepaper/commits/main" title="GitHub commit activity">
+    <img src="https://img.shields.io/github/commit-activity/m/Phillweston/ChubGame-Whitepaper?style=for-the-badge"/>
   </a>
-  <a aria-label="GitHub contributors" href="https://github.com/BTI-US/Spatula-Webpage/graphs/contributors" title="GitHub contributors">
-    <img src="https://img.shields.io/github/contributors/Phillweston/Spatula-Webpage?color=orange&style=for-the-badge"/>
+  <a aria-label="GitHub contributors" href="https://github.com/Phillweston/ChubGame-Whitepaper/graphs/contributors" title="GitHub contributors">
+    <img src="https://img.shields.io/github/contributors/Phillweston/ChubGame-Whitepaper?color=orange&style=for-the-badge"/>
   </a>
   <a aria-label="Build status" href="#" title="Build status">
-    <img src="https://img.shields.io/github/deployments/Phillweston/Spatula-Webpage/Production?logo=Vercel&style=for-the-badge"/>
+    <img src="https://img.shields.io/github/deployments/Phillweston/ChubGame-Whitepaper/Production?logo=Vercel&style=for-the-badge"/>
   </a>
   <a aria-label="Powered by Vercel" href="https://vercel.com?utm_source=Craigary&utm_campaign=oss" title="Powered by Vercel">
     <img src="https://www.datocms-assets.com/31049/1618983297-powered-by-vercel.svg" height="28"/>
@@ -29,11 +31,11 @@
 
 ## 预览效果
 
-在线演示：[https://btiplatform.vercel.app/](https://btiplatform.vercel.app/) ，项目支持多主题切换，没找到喜欢的主题？[贡献](/CONTRIBUTING.md)一个吧~
+在线演示：[https://chubgame-whitepaper.vercel.app/](https://chubgame-whitepaper.vercel.app/) ，项目支持多主题切换，没找到喜欢的主题？[贡献](/CONTRIBUTING.md)一个吧~
 
 | Next | Medium | Hexo | Fukasawa |
 |--|--|--|--|
-| <img src='./docs/theme-next.png' width='300'/> [预览NEXT](https://btiplatform.vercel.app/?theme=next)  | <img src='./docs/theme-medium.png' width='300'/> [预览MEDIUM](https://btiplatform.vercel.app/?theme=medium) | <img src='./docs/theme-hexo.png' width='300'/> [预览HEXO](https://btiplatform.vercel.app/?theme=hexo) | <img src='./docs/theme-fukasawa.png' width='300'/> [预览FUKASAWA](https://btiplatform.vercel.app/?theme=fukasawa) |
+| <img src='./docs/theme-next.png' width='300'/> [预览NEXT](https://chubgame-whitepaper.vercel.app/?theme=next)  | <img src='./docs/theme-medium.png' width='300'/> [预览MEDIUM](https://chubgame-whitepaper.vercel.app/?theme=medium) | <img src='./docs/theme-hexo.png' width='300'/> [预览HEXO](https://chubgame-whitepaper.vercel.app/?theme=hexo) | <img src='./docs/theme-fukasawa.png' width='300'/> [预览FUKASAWA](https://chubgame-whitepaper.vercel.app/?theme=fukasawa) |
 
 ## 我要如何开始？
 
